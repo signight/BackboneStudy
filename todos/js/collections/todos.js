@@ -34,5 +34,5 @@ define([
 		comparator: 'order'
 	});
 
-	return new TodosCollection();
+	return new TodosCollection;
 });
